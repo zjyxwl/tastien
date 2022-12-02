@@ -23,6 +23,12 @@
   tst_banners  广告位 Block
   tst_banners__img  Element
 
+  - 奶茶下的程序门店选择页
+    1. LBS Location Base Service
+      高德 LBS 技术 
+      美团
+    2. 
+
 - css 技巧
   1. 能不用定位就不要用定位
     脱离文档流
@@ -107,4 +113,5 @@
     Block 开始  rx_tab  新的组件
     Element  内部元素的申明  rx_tab__item
     Modifier rx_tab__item-on
-- 
+- 运用常规css 命名套路
+  - BEM kai'qv

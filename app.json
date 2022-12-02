@@ -3,7 +3,8 @@
     "pages/index/index",
     "pages/didi/didi",
     "pages/logs/logs",
-    "pages/waimai/waimai"
+    "pages/waimai/waimai",
+    "pages/map/map"
   ],
   "window":{
     "backgroundTextStyle":"light",
