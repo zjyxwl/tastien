@@ -115,3 +115,13 @@
     Modifier rx_tab__item-on
 - 运用常规css 命名套路
   - BEM kai'qv
+
+
+
+- 中大型项目 建议采用框架
+  有赞 vant
+  1. 小程序 变成node 项目
+  npm init -y   =>  package.json
+  2.  npm i @vant/weapp -S --production
+    node_modules/@vant
+  3.  

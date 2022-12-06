@@ -1,5 +1,5 @@
 <view class="page">
-  <view style="height:50vh;"></view>
+  <!-- <view style="height:50vh;"></view> -->
   <swiper 
     class="didi_menus {{(menu_type == 1)&&'higher_menus'}}" 
     indicator-dots="true"
